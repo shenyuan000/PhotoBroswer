@@ -117,6 +117,8 @@
 		896469361B7DE74C004FF55E /* 7.gif in Resources */ = {isa = PBXBuildFile; fileRef = 896469261B7DE74C004FF55E /* 7.gif */; };
 		896469371B7DE74C004FF55E /* 8.gif in Resources */ = {isa = PBXBuildFile; fileRef = 896469271B7DE74C004FF55E /* 8.gif */; };
 		896469381B7DE74C004FF55E /* 9.gif in Resources */ = {isa = PBXBuildFile; fileRef = 896469281B7DE74C004FF55E /* 9.gif */; };
+		8964693B1B7DE8B0004FF55E /* 17.gif in Resources */ = {isa = PBXBuildFile; fileRef = 896469391B7DE8B0004FF55E /* 17.gif */; };
+		8964693C1B7DE8B0004FF55E /* 18.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8964693A1B7DE8B0004FF55E /* 18.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -246,6 +248,8 @@
 		896469261B7DE74C004FF55E /* 7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 7.gif; sourceTree = "<group>"; };
 		896469271B7DE74C004FF55E /* 8.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 8.gif; sourceTree = "<group>"; };
 		896469281B7DE74C004FF55E /* 9.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 9.gif; sourceTree = "<group>"; };
+		896469391B7DE8B0004FF55E /* 17.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 17.gif; sourceTree = "<group>"; };
+		8964693A1B7DE8B0004FF55E /* 18.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 18.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -512,6 +516,8 @@
 		896469181B7DE74C004FF55E /* Show */ = {
 			isa = PBXGroup;
 			children = (
+				896469391B7DE8B0004FF55E /* 17.gif */,
+				8964693A1B7DE8B0004FF55E /* 18.gif */,
 				896469191B7DE74C004FF55E /* 1.gif */,
 				8964691A1B7DE74C004FF55E /* 10.gif */,
 				8964691B1B7DE74C004FF55E /* 11.gif */,
@@ -612,6 +618,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8964693B1B7DE8B0004FF55E /* 17.gif in Resources */,
 				896469361B7DE74C004FF55E /* 7.gif in Resources */,
 				896469321B7DE74C004FF55E /* 3.gif in Resources */,
 				8964692D1B7DE74C004FF55E /* 13.gif in Resources */,
@@ -624,6 +631,7 @@
 				8964692F1B7DE74C004FF55E /* 15.gif in Resources */,
 				8964692E1B7DE74C004FF55E /* 14.gif in Resources */,
 				896468D11B7DAF28004FF55E /* Info.plist in Resources */,
+				8964693C1B7DE8B0004FF55E /* 18.gif in Resources */,
 				896469341B7DE74C004FF55E /* 5.gif in Resources */,
 				8964692C1B7DE74C004FF55E /* 12.gif in Resources */,
 				896469351B7DE74C004FF55E /* 6.gif in Resources */,
