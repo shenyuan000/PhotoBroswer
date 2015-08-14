@@ -109,56 +109,56 @@
 
 <br/>
 ##### 基本展示 
-![image](./PhotoBroswer/Show/1.jpg)<br/>
+![image](./PhotoBroswer/Show/1.gif)<br/>
 
 <br/>
 ##### 无NavBar，无TabBar 
-![image](./PhotoBroswer/Show/2.jpg)<br/>
+![image](./PhotoBroswer/Show/2.gif)<br/>
 
 <br/>
 ##### 有NavBar，无TabBar
-![image](./PhotoBroswer/Show/3.jpg)<br/>
+![image](./PhotoBroswer/Show/3.gif)<br/>
 
 <br/>
 ##### 无NavBar，有TabBar
-![image](./PhotoBroswer/Show/4.jpg)<br/>
+![image](./PhotoBroswer/Show/4.gif)<br/>
 
 <br/>
 ##### 有NavBar，有TabBar
-![image](./PhotoBroswer/Show/5.jpg)<br/>
+![image](./PhotoBroswer/Show/5.gif)<br/>
 
 <br/>
 ##### Push模式
 请直接设置pbVC.showType = PhotoBroswer.ShowType.Push <br/>
-![image](./PhotoBroswer/Show/6.jpg)<br/>
+![image](./PhotoBroswer/Show/6.gif)<br/>
 
 <br/>
 ##### Modal模式
 请直接设置pbVC.showType = PhotoBroswer.ShowType.Modal <br/>
-![image](./PhotoBroswer/Show/7.jpg)<br/>
+![image](./PhotoBroswer/Show/7.gif)<br/>
 
 <br/>
 ##### 放大模型：仿网易新闻，经典OC版本模式
 请直接设置pbVC.showType = PhotoBroswer.ShowType.ZoomAndDismissWithCancelBtnClick <br/>
-![image](./PhotoBroswer/Show/8.jpg)<br/>
+![image](./PhotoBroswer/Show/8.gif)<br/>
 
 <br/>
 ##### 这么大模式：微信、新浪微博缩放模式
 大家在OC版本反馈想要的功能，，经典OC版本无此功能<br/>
 请直接设置pbVC.showType = PhotoBroswer.ShowType.ZoomAndDismissWithSingleTap <br/>
-![image](./PhotoBroswer/Show/9.jpg)<br/>
+![image](./PhotoBroswer/Show/9.gif)<br/>
 <br/>
 
 ##### 横屏功能支持：大家在OC版本反馈想要的功能
-![image](./PhotoBroswer/Show/10.jpg)<br/>
+![image](./PhotoBroswer/Show/10.gif)<br/>
 
 <br/>
 ##### 图片保存
-![image](./PhotoBroswer/Show/11.jpg)<br/>
+![image](./PhotoBroswer/Show/11.gif)<br/>
 
 <br/>
 ##### 信息滚动查看：大家在OC版本反馈想要的功能
-![image](./PhotoBroswer/Show/12.jpg)<br/>
+![image](./PhotoBroswer/Show/12.gif)<br/>
 
 
 <br/>
@@ -173,23 +173,23 @@
         //强制关闭显示一切信息
         pbVC.hideMsgForZoomAndDismissWithSingleTap = true
 
-![image](./PhotoBroswer/Show/18.jpg)<br/>
+![image](./PhotoBroswer/Show/18.gif)<br/>
 
 <br/>
 ##### 缩略图未加载成功，大图也没有加载成功
-![image](./PhotoBroswer/Show/13.jpg)<br/>
+![image](./PhotoBroswer/Show/13.gif)<br/>
 
 <br/>
 ##### 缩略图加载成功，大图没有加载成功
-![image](./PhotoBroswer/Show/14.jpg)<br/>
+![image](./PhotoBroswer/Show/14.gif)<br/>
 
 <br/>
 ##### 缩略图加载成功，大图也加载成功
-![image](./PhotoBroswer/Show/15.jpg)<br/>
+![image](./PhotoBroswer/Show/15.gif)<br/>
 
 <br/>
 ##### 缩略图加载成功，图片查看中下载成功及动画
-![image](./PhotoBroswer/Show/16.jpg)<br/>
+![image](./PhotoBroswer/Show/16.gif)<br/>
 
 
 
